@@ -110,7 +110,7 @@ project-root/
 
 ![Discount vs Profit](Visules/Discount_vs_Profit.png)
 
-![Discount vs Sales](Visules/Projects/1/Discount_vs_Sales.png)
+![Discount vs Sales](Visules/Discount_vs_Sales.png)
 
 ![Correlation](Visules/Correlation.png)
 
