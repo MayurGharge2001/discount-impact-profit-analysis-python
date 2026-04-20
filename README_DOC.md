@@ -116,7 +116,7 @@ project-root/
 
 ![Profit Trend by Category](reports/figures/Profit_by_Category.png)
 
-![Profit vs Discount](reports/figures/Profit_vs_Discount.png)
+![Profit vs Discount](reports/figures/Profit_vs_Discoun.png)
 
 ---
 
