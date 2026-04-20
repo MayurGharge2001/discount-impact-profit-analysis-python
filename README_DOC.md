@@ -108,7 +108,7 @@ project-root/
 * Profit Trend by Discount Across Categories
 * Profit vs Discount Trend
 
-![Discount vs Profit](reports/figures/Discount_vs_Profit.png)
+![Discount vs Profit](Discount_vs_Profit.png)
 
 ![Discount vs Sales](reports/figures/Discount_vs_Sales.png)
 
