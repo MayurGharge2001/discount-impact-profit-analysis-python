@@ -114,7 +114,7 @@ project-root/
 
 ![Correlation](Visules/Correlation.png.png)
 
-![Profit Trend by Category](Visules/Profit_by_Category.png.png)
+![Profit Trend by Category](Visules/Profit_by_Category.pn.png)
 
 ![Profit vs Discount](Visules/Profit_vs_Discount.png.png)
 
